@@ -8,7 +8,7 @@ class CommandLineInterface
   end
 
   def what_i_am
-    "The command line solution that will help you make the best mixed drink on the block!"
+    puts "The command line solution that will help you make the best mixed drink on the block!"
   end
 
   def welcome
